@@ -215,7 +215,12 @@
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="307.52941176470586" as="targetPoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="686" y="308" />
+              <mxPoint x="686" y="310" />
+              <mxPoint x="570" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-67" value="CAN驱动器&lt;br&gt;（接收）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

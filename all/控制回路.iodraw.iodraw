@@ -149,6 +149,9 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-50" value="DM电机执行器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="800" y="740" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="690" width="170" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

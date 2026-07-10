@@ -58,7 +58,7 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-49" y="545" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-17">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-17" target="KCpztrgchEGTVWQ79zGj-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="570.4200000000001" as="targetPoint" />
           </mxGeometry>
@@ -105,8 +105,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-29" value="导纳计算&lt;div&gt;dp=gain*error*dt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-29" value="牵引条件&lt;div&gt;|力矩|&amp;lt;0.1Nm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="680" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-30" value="脱离检测&lt;div&gt;|力矩|&amp;lt;0.2Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

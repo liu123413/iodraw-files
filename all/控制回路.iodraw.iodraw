@@ -138,7 +138,7 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-41" value="p&lt;sub&gt;k+1&lt;/sub&gt;=p&lt;sub&gt;k&lt;/sub&gt;+dp&lt;sub&gt;total&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="525" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-42" value="电机力矩计算&lt;div&gt;&lt;div style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-math=&quot;\tau_{motor} = K_p \times (virtual\_position - position_{real}) - K_d \times velocity_{real}&quot; class=&quot;math-block&quot;&gt;\tau = K_p *（v_k+1-v_real)-K_d*v (virtual\_position - position_{real}) - K_d \times velocity_{real}$$&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-42" value="电机力矩计算&lt;div&gt;&lt;div style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-math=&quot;\tau_{motor} = K_p \times (virtual\_position - position_{real}) - K_d \times velocity_{real}&quot; class=&quot;math-block&quot;&gt;\tau = K_p *（p&lt;sub&gt;k+1&lt;/sub&gt;-p_real)-K_d*v&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="330" y="650" width="140" height="90" as="geometry" />
         </mxCell>
       </root>

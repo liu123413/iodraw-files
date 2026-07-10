@@ -34,7 +34,7 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-11" target="EartqVXHZfIqN2OS8wGN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="PI控制器&lt;div&gt;P项：Kp&lt;sub&gt;force*&lt;/sub&gt;&lt;span style=&quot;color: rgb(106, 153, 85); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;τ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="PI控制器&lt;div&gt;P项：Kp&lt;sub&gt;force*&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

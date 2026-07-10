@@ -55,7 +55,7 @@
             <mxPoint x="30" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-16" value="期望位置&lt;div&gt;（-4.0rad)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-16" value="期望位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">

@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-30" value="脱离检测&lt;div&gt;|力矩|&amp;lt;0.2Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-30" value="牵引条件&lt;div&gt;|力矩|&amp;lt;0.1Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="700" width="160" height="50" as="geometry" />
         </mxCell>
       </root>

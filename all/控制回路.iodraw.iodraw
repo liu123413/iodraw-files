@@ -50,7 +50,10 @@
           <mxGeometry x="630" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-17" value="DM电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="870" y="245" width="200" height="140" as="geometry" />
+          <mxGeometry x="870" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-19" value="DM电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="290" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -16,7 +16,7 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-3" target="EartqVXHZfIqN2OS8wGN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-3" value="位置PD控制器&lt;div&gt;P项：Kp(pos-θ&lt;sub&gt;measure&lt;/sub&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EartqVXHZfIqN2OS8wGN-3" value="位置PD控制器&lt;div&gt;P项：Kp(pos-θ&lt;sub&gt;measure&lt;/sub&gt;)&lt;/div&gt;&lt;div&gt;D项：Kd（0-ω&lt;sub&gt;measure&lt;/sub&gt;）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-5" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;Target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">

@@ -94,7 +94,7 @@
           <mxGeometry x="-70" y="595" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-27" value="导纳计算&lt;div&gt;dp=gain*error*dt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="525" width="140" height="90" as="geometry" />
+          <mxGeometry x="130" y="525" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KCpztrgchEGTVWQ79zGj-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

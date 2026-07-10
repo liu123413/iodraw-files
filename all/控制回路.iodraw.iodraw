@@ -43,6 +43,9 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-15" value="τ&lt;sub&gt;ff&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="450" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-16" value="τ&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;pos&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

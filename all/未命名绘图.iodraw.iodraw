@@ -77,7 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-22" value="力误差" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="601" width="60" height="30" as="geometry" />
+          <mxGeometry x="-20" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-23" value="目标力矩&lt;div&gt;-0.3N.m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="636" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -126,6 +126,9 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-36" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="230" y="595" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-37" value="力误差" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

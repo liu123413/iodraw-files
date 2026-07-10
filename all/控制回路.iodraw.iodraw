@@ -31,16 +31,11 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-8" value="力控制回路" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="420" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EartqVXHZfIqN2OS8wGN-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="490" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-11" target="EartqVXHZfIqN2OS8wGN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="梯形轨迹生成器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="200" height="140" as="geometry" />
+        <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="PI控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="120" height="70" as="geometry" />

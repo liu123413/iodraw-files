@@ -37,7 +37,7 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="力PI控制器&lt;div&gt;P项：Kp&lt;sub&gt;force*&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I项：Ki&lt;sub&gt;force&lt;/sub&gt;∫&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;dt&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-12" value="τ&lt;sub&gt;total&lt;/sub&gt;=τ&lt;sub&gt;pos&lt;/sub&gt;+τ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EartqVXHZfIqN2OS8wGN-12" value="τ&lt;sub&gt;total&lt;/sub&gt;=τ&lt;sub&gt;pos&lt;/sub&gt;+τ&lt;sub&gt;ff&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-15" value="τ&lt;sub&gt;ff&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">

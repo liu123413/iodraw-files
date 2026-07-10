@@ -147,9 +147,14 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-42" value="电机力矩计算&lt;div&gt;&lt;div style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-math=&quot;\tau_{motor} = K_p \times (virtual\_position - position_{real}) - K_d \times velocity_{real}&quot; class=&quot;math-block&quot;&gt;\tau = K_p *（p&lt;sub&gt;k&lt;/sub&gt;-p_real)-K_d*v&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="740" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-44">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="770" as="targetPoint" />
+            <mxPoint x="-30" y="980" as="targetPoint" />
+            <mxPoint x="660" y="995" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="316" y="995" />
+              <mxPoint x="316" y="981" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-44" value="电机" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">

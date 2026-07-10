@@ -13,13 +13,8 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-2" value="梯形轨迹生成器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-3" target="EartqVXHZfIqN2OS8wGN-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="160" />
-              <mxPoint x="930" y="280" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-3" target="EartqVXHZfIqN2OS8wGN-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-3" value="位置PD控制器&lt;div&gt;P项：Kp(pos-θ&lt;sub&gt;measure&lt;/sub&gt;)&lt;/div&gt;&lt;div&gt;D项：Kd（0-ω&lt;sub&gt;measure&lt;/sub&gt;）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="200" height="140" as="geometry" />
@@ -36,17 +31,18 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-8" value="力控制回路" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="420" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-11" target="EartqVXHZfIqN2OS8wGN-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EartqVXHZfIqN2OS8wGN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="力PI控制器&lt;div&gt;P项：Kp&lt;sub&gt;force*&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I项：Ki&lt;sub&gt;force&lt;/sub&gt;∫&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;dt&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-12" target="EartqVXHZfIqN2OS8wGN-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-12" value="τ&lt;sub&gt;total&lt;/sub&gt;=τ&lt;sub&gt;pos&lt;/sub&gt;+τ&lt;sub&gt;ff&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="280" width="120" height="70" as="geometry" />
+        <mxCell id="EartqVXHZfIqN2OS8wGN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EartqVXHZfIqN2OS8wGN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="315" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-15" value="τ&lt;sub&gt;ff&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="450" width="60" height="30" as="geometry" />

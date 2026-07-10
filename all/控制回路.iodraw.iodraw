@@ -19,6 +19,9 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-3" value="位置PD控制器&lt;div&gt;P项：Kp(pos-θ&lt;sub&gt;measure&lt;/sub&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="200" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-5" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;Target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EartqVXHZfIqN2OS8wGN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="160" as="sourcePoint" />
@@ -98,6 +101,9 @@
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-33" value="τ&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-35" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;Target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -46,6 +46,12 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-14" value="力位混合控制" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="470" width="530" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="180" as="sourcePoint" />
+            <mxPoint x="180" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

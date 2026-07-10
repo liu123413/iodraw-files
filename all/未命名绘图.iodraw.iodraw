@@ -68,12 +68,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-20" value="目标力矩&lt;div&gt;-0.3N.m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="626" width="60" height="30" as="geometry" />
+          <mxGeometry x="-150" y="626" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-110" y="770" as="sourcePoint" />
-            <mxPoint x="-110" y="720" as="targetPoint" />
+            <mxPoint x="-24.5" y="731" as="sourcePoint" />
+            <mxPoint x="-24.5" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

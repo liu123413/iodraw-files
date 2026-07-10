@@ -1,0 +1,114 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="AV9UKZWcrPaLEu1WJSBu">
+    <mxGraphModel dx="2040" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KCpztrgchEGTVWQ79zGj-2" value="状态机（FSM）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-1" target="KCpztrgchEGTVWQ79zGj-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="310" />
+              <mxPoint x="205" y="310" />
+              <mxPoint x="205" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-1" value="位置控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-4" target="KCpztrgchEGTVWQ79zGj-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="360" />
+              <mxPoint x="415" y="360" />
+              <mxPoint x="415" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-4" value="力位混合控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-6" target="KCpztrgchEGTVWQ79zGj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-6" value="接触检测&lt;div&gt;|力矩|&amp;gt;0.5Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-9" value="脱离检测&lt;div&gt;|力矩|&amp;lt;0.2Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.969;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-9" target="KCpztrgchEGTVWQ79zGj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-14" value="力位混合控制" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="530" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="260" as="sourcePoint" />
+            <mxPoint x="30" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-16" value="期望位置&lt;div&gt;（-4.0rad)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="545" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-17" target="KCpztrgchEGTVWQ79zGj-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="570.4200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-98" y="570" as="sourcePoint" />
+            <mxPoint x="-48" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-20" value="目标力矩&lt;div&gt;-0.3N.m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-24" y="770" as="sourcePoint" />
+            <mxPoint x="-24.5" y="595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-24" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-22" value="力误差" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="524" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-23" value="检测力矩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="614" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-24" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-25" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-27" value="导纳计算&lt;div&gt;dp=gain*error*dt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-22" y="725" as="sourcePoint" />
+            <mxPoint x="60" y="725" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-30" value="牵引条件&lt;div&gt;|力矩|&amp;lt;0.1Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

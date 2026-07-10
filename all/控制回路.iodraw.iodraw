@@ -56,7 +56,7 @@
           <mxGeometry x="870" y="280" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-19" value="CAN RX&lt;div&gt;Feedback&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="870" y="390" width="120" height="70" as="geometry" />
+          <mxGeometry x="870" y="690" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-21" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="20" height="20" as="geometry" />

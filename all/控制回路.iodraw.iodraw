@@ -189,7 +189,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-62" value="位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="870" width="60" height="30" as="geometry" />
+          <mxGeometry x="940" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-64" value="位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970.5" y="940" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

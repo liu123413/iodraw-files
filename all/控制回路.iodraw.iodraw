@@ -207,7 +207,7 @@
           <mxGeometry x="1014.5" y="970" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-67" value="CAN驱动器&lt;br&gt;（接收）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="837" y="930" width="90" height="90" as="geometry" />
+          <mxGeometry x="800" y="285" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

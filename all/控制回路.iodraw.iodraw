@@ -140,11 +140,14 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-42" value="电机力矩计算&lt;div&gt;&lt;div style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-math=&quot;\tau_{motor} = K_p \times (virtual\_position - position_{real}) - K_d \times velocity_{real}&quot; class=&quot;math-block&quot;&gt;\tau = K_p *（p&lt;sub&gt;k&lt;/sub&gt;-p_real)-K_d*v&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="740" width="200" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-49" target="KCpztrgchEGTVWQ79zGj-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-49" value="CAN驱动器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="740" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-50" value="CAN驱动器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="750" width="90" height="90" as="geometry" />
+        <mxCell id="KCpztrgchEGTVWQ79zGj-50" value="DM电机执行器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="800" y="740" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

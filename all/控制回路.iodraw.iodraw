@@ -102,7 +102,7 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-33" value="τ&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EartqVXHZfIqN2OS8wGN-35" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;Target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EartqVXHZfIqN2OS8wGN-35" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

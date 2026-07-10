@@ -49,11 +49,17 @@
         <mxCell id="EartqVXHZfIqN2OS8wGN-16" value="τ&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;pos&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-17" target="EartqVXHZfIqN2OS8wGN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-17" value="DM电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="870" y="280" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EartqVXHZfIqN2OS8wGN-19" value="CAN RX&lt;div&gt;Feedback&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="870" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-21" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

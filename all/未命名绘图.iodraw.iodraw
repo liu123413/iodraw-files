@@ -56,37 +56,39 @@
           <mxGeometry x="-50" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="631" width="50" height="50" as="geometry" />
+          <mxGeometry x="-49" y="545" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-17" target="KCpztrgchEGTVWQ79zGj-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KCpztrgchEGTVWQ79zGj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="570.4200000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-98" y="656" as="sourcePoint" />
-            <mxPoint x="-48" y="656" as="targetPoint" />
+            <mxPoint x="-98" y="570" as="sourcePoint" />
+            <mxPoint x="-48" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-20" value="目标力矩&lt;div&gt;-0.3N.m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="626" width="60" height="30" as="geometry" />
+          <mxGeometry x="-150" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-24.5" y="731" as="sourcePoint" />
-            <mxPoint x="-24.5" y="681" as="targetPoint" />
+            <mxPoint x="-24.5" y="645" as="sourcePoint" />
+            <mxPoint x="-24.5" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-22" value="力误差" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="610" width="60" height="30" as="geometry" />
+          <mxGeometry x="-20" y="524" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-23" value="检测力矩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="-100" y="614" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-24" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="626" width="60" height="30" as="geometry" />
+          <mxGeometry x="-100" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-25" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="681" width="60" height="30" as="geometry" />
+          <mxGeometry x="-70" y="595" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

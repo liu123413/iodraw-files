@@ -130,7 +130,10 @@
           <mxGeometry x="230" y="595" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-37" value="牵引增量dp&lt;span style=&quot;font-size: 10px;&quot;&gt;pull&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-40" value="牵引增量dp&lt;span style=&quot;font-size: 10px;&quot;&gt;pull&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

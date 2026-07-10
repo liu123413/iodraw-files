@@ -108,6 +108,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KCpztrgchEGTVWQ79zGj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-30" target="KCpztrgchEGTVWQ79zGj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KCpztrgchEGTVWQ79zGj-30" value="牵引条件&lt;div&gt;|力矩|&amp;lt;0.1Nm&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="700" width="160" height="50" as="geometry" />
         </mxCell>

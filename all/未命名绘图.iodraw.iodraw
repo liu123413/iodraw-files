@@ -70,7 +70,7 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-20" value="目标力矩&lt;div&gt;-0.3N.m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-150" y="626" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="KCpztrgchEGTVWQ79zGj-25">
+        <mxCell id="KCpztrgchEGTVWQ79zGj-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-24.5" y="731" as="sourcePoint" />
             <mxPoint x="-24.5" y="681" as="targetPoint" />
@@ -85,14 +85,8 @@
         <mxCell id="KCpztrgchEGTVWQ79zGj-24" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-100" y="626" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="KCpztrgchEGTVWQ79zGj-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-24.5" y="731" as="sourcePoint" />
-            <mxPoint x="-24.5" y="681" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KCpztrgchEGTVWQ79zGj-25" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="681" width="60" height="30" as="geometry" />
+        <mxCell id="KCpztrgchEGTVWQ79zGj-25" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

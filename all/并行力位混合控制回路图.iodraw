@@ -1,0 +1,104 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="3W52r05uX-eeHQBNLXfz">
+    <mxGraphModel dx="2254" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EartqVXHZfIqN2OS8wGN-1" value="位置控制回路" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-2" target="EartqVXHZfIqN2OS8wGN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-2" value="梯形轨迹生成器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-3" target="EartqVXHZfIqN2OS8wGN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-3" value="位置PD控制器&lt;div&gt;P项：Kp(pos-θ&lt;sub&gt;measure&lt;/sub&gt;)&lt;/div&gt;&lt;div&gt;D项：Kd（0-ω&lt;sub&gt;measure&lt;/sub&gt;）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-5" value="θ&lt;sub style=&quot;font-size: 16px;&quot;&gt;Target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EartqVXHZfIqN2OS8wGN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="160" as="sourcePoint" />
+            <mxPoint x="110" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-8" value="力控制回路" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-11" target="EartqVXHZfIqN2OS8wGN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-11" value="力PI控制器&lt;div&gt;P项：Kp&lt;sub&gt;force*&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I项：Ki&lt;sub&gt;force&lt;/sub&gt;∫&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;τ&lt;sub&gt;error&lt;/sub&gt;dt&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EartqVXHZfIqN2OS8wGN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-15" value="τ&lt;sub&gt;ff&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-17" target="EartqVXHZfIqN2OS8wGN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-17" value="DM电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-19" target="EartqVXHZfIqN2OS8wGN-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-19" value="CAN RX&lt;div&gt;Feedback&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="690" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-21" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="483" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-24" value="τ&lt;sub&gt;target&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="463" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-24" target="EartqVXHZfIqN2OS8wGN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="543" as="sourcePoint" />
+            <mxPoint x="40" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EartqVXHZfIqN2OS8wGN-29" target="EartqVXHZfIqN2OS8wGN-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-29" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="463" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-30" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="513" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-32" value="τ&lt;sub&gt;error&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="463" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-33" value="τ&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EartqVXHZfIqN2OS8wGN-37" value="&lt;sub style=&quot;font-size: 16px;&quot;&gt;ω&lt;/sub&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;sub&gt;measure&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

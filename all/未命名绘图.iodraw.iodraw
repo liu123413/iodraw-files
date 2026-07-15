@@ -15,12 +15,12 @@
           <mxGeometry y="190" width="285.78" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-10" width="260" height="150" as="geometry" />
+          <mxGeometry x="300" y="-50" width="370" height="190" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="205" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-13" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-13" value="y&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="171" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

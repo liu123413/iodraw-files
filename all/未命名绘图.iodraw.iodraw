@@ -41,12 +41,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-21" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="500" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACEAAAAtCAIAAACvRJVDAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACsElEQVRYhWP8//8/A40BE60tGLVj1I5RO4a+HV8uLyvx0ZOT03ZJblt14fVfBgYGBoafD7c3ZHcf/QJRwkhRefXt6oLcrCX/bd202J6e2Lh87TVOc09XE9GP5878CZ48t9hKCKLsPwXgzc7eplW3vkF53x4emlMV7+PiHlEy79QbJGWU+YM4MCTinA52/P7w+Nq5s9eefEYWe3fv0tnLD97/hvJZyDf+y4213W3L7vKpK7A9OLj3qV7hhNYEnXdbO1uWPhbTkGF8fPLMD9eGvhxrUXLT1Y9rC5J8spZe+/T///////88mBcuzmdVObs5JKzn+Pv/fx5vrrSXZmMSDJ///P9/8uz4dXNOQtSEc5/hAt8OVhpyMDBxWTWd+Pb////PGzJkWRiYOAwq9n0l046P24t8yvd8RBJ5typRgomB27n78q/////////57v5Fs5cduvvp/////8mJj9+vv8iGRtrwIUS+37h67cM/Dh0rS2VWBgYGBgYeJYdYJbg0WWGFBn7dmuzFy8SilLXpIzZpquSPdydPnPnKwG9mZsKNTZoadnw+c/Lku3+cxmamIsw0suP7pVMnn/zhUDcxUWRFiP68tm7Rnud/ybXj97MzW9Zuv/gSUlf8vnfi2LUfLKLGxrqcCDVfji+Zf+E3N8RfJEfw50O15rxMDGw6JXu+/v///8f5DgduJgYu65ZTP+BqftyYlRA37eoPMuP878tL5658ZuBVsTRWZmf4fmPJxJMmxZFK/14+e/4N6s0nOxorDpgUxGuxQwRIzh/Mcl7JabbP71nrf9s9ofTAyd9eTS1hAi7MmSUtOY1PHUXfXdx/5q9T2YQ0Qy6YFvLqqN8vrx47feeLgJqpsaYYJBb+vrtz5uy1F3+E1IzNNcVYkVWP1oOjdozaMWrHqB0IAADLEMVPSD77JgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="560" y="15" width="33" height="45" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

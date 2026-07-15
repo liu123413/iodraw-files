@@ -17,7 +17,7 @@
           <mxGeometry y="190" width="285.78" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-11" value="GP-MPC Framework" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="400" height="260" as="geometry" />
+          <mxGeometry x="290" y="270" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-13" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="200" y="73" width="60" height="30" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-23" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cP6vfXkjLAg8YyGoGNxQ-25" target="cP6vfXkjLAg8YyGoGNxQ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-25" value="MPC solver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="140" height="75" as="geometry" />

@@ -52,7 +52,7 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-30" value="g(.)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="610" y="353" width="70" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-31" value="&lt;span class=&quot;math-inline&quot; data-math=&quot;\mu&quot; data-index-in-node=&quot;10&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;$\mu$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-31" value="µ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="600" width="70" height="40" as="geometry" />
         </mxCell>
       </root>

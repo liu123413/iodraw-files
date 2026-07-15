@@ -33,6 +33,9 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-17" value="GP Training Dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="140" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" width="364" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -61,8 +61,8 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-31" value="mean µ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-38" value="mean µ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="70" height="40" as="geometry" />
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-38" value="variance σ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

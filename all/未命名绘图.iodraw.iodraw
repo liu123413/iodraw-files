@@ -29,7 +29,7 @@
           <mxGeometry x="320" y="73" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-16" value="u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cP6vfXkjLAg8YyGoGNxQ-17" target="cP6vfXkjLAg8YyGoGNxQ-25">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-25" value="MPC solver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="140" height="75" as="geometry" />
+          <mxGeometry x="320" y="400" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cP6vfXkjLAg8YyGoGNxQ-28" target="cP6vfXkjLAg8YyGoGNxQ-17">
           <mxGeometry relative="1" as="geometry" />

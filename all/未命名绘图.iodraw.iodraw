@@ -56,7 +56,7 @@
           <mxGeometry x="610" y="353" width="70" height="47" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-31" value="mean µ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="410" width="70" height="40" as="geometry" />
+          <mxGeometry x="455" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-38" value="variance σ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="70" height="40" as="geometry" />

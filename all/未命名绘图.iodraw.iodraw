@@ -17,6 +17,9 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-30" width="370" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cP6vfXkjLAg8YyGoGNxQ-11" target="cP6vfXkjLAg8YyGoGNxQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-11" value="GP-MPC Framework" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="300" height="170" as="geometry" />
         </mxCell>
@@ -25,6 +28,9 @@
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-14" value="Kalman Fiilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="15" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-16" value="y&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="171" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

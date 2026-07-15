@@ -19,16 +19,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-11" value="GP-MPC Framework" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="285.78" y="400" width="300" height="170" as="geometry" />
+          <mxGeometry x="330" y="400" width="300" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-13" value="y&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="171" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-14" value="Kalman Fiilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="310" y="30" width="140" height="75" as="geometry" />
+          <mxGeometry x="380" y="30" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-16" value="u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="171" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="171" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-17" value="GP Training Dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="140" height="75" as="geometry" />

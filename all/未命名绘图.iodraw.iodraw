@@ -23,7 +23,7 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-13" value="y&lt;sub&gt;measure&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="171" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-14" value="&lt;span style=&quot;&quot;&gt;Kalman Filter&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-14" value="&lt;span style=&quot;&quot;&gt;Kalman Filter&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#00FF80;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="15" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

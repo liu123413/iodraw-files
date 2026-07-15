@@ -45,7 +45,7 @@
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-23" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="520" y="73" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-25" value="GP Training Dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="cP6vfXkjLAg8YyGoGNxQ-25" value="MPC solver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="140" height="75" as="geometry" />
         </mxCell>
       </root>

@@ -40,7 +40,7 @@
           <mxGeometry x="171" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-17" value="GP Training Dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="405" width="140" height="75" as="geometry" />
+          <mxGeometry x="440" y="405" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cP6vfXkjLAg8YyGoGNxQ-23" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="520" y="73" width="60" height="30" as="geometry" />
